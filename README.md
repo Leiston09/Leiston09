@@ -48,5 +48,5 @@
 ## 📫 Contacto y redes
 -  **GitHub:** [github.com/Leiston09](https://github.com/Leiston09)
 -  **LinkedIn:** [linkedin.com/in/leistonholguin](https://www.linkedin.com/in/leistonholguin/)
--  **WhatsApp:** [+593 96 740 5151](https://wa.me/593967405151)
--  **Correo:** [leiston09holguin@gmail.com](mailto:leiston09holguin@gmail.com)
+-  **WhatsApp:** [WhatsApp](https://wa.me/593967405151)
+-  **Correo:** [Correo](mailto:leiston09holguin@gmail.com)
